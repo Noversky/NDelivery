@@ -51,7 +51,7 @@ h1 {
 html {
     margin-top: 30;
     background-color: rgb(4, 26, 74);
-    display: contents;
+    display: block;
 }
 
 p {

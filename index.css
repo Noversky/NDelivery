@@ -1,0 +1,61 @@
+.t {
+    text-align: center;
+    align-items: center;
+    display: block;
+    size: 20;
+    margin-bottom: 10;
+    color: white;
+}
+
+form {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+    display: block;
+    color: white;
+}
+
+.product {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tel {
+ display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10;
+}
+
+.Home {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10;
+}
+
+.SUBMIT {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10;
+}
+
+html {
+    margin-top: 30;
+    background-color: rgb(4, 26, 74);
+    display: contents;
+}
+
+p {
+    color: white;
+    text-align: center;
+    margin-top: 40;
+}
